@@ -1,3 +1,5 @@
 # Pytorch-Deep-Learning
 
-ann, cnn, rnn, lstm in pytorch
+Basic of Pytorch
+Linear Regression, Logistic Regression
+ANN, CNN, RNN, LSTM in Pytorch
